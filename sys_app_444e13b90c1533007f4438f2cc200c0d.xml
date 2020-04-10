@@ -15,7 +15,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_hello_world</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>test</short_description>
         <source>x_snc_hello_world</source>
         <store_correlation_id/>
         <store_url/>
